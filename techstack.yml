@@ -1,0 +1,31 @@
+repo_name: alien1403/Stocknet
+report_id: b4cc5d8d6521a54f12f1985755232aa7
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:38:29+00:00'
+requested_by: alien1403
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/alien1403/Stocknet
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/alien1403/Stocknet
+  detection_source: Repo Metadata
